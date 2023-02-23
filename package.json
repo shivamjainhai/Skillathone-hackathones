@@ -1,0 +1,12 @@
+{
+  "name": "skillathone-hackathones",
+  "version": "1.0.0",
+  "description": "Skill a thon hackathon repo",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "author": "shivam , dhyuti",
+  "license": "ISC"
+}
